@@ -11,8 +11,8 @@
     "govuk-react": "^0.7.2",
     "react": "^16.12.1",
     "react-dom": "^16.12.1",
-    "styled-components": "^5.0.1",
-    "react-markdown": "^3.3.4"
+    "react-markdown": "^3.3.4",
+    "styled-components": "^4.4.1"
   },
   "devDependencies": {
     "@babel/core": "^7.1.0",
