@@ -11,7 +11,6 @@
     "govuk-react-jsx": "^1.5.0",
     "react": "^16.12.1",
     "react-dom": "^16.12.1",
-    "react-markdown": "^3.3.4",
     "styled-components": "^4.4.1"
   },
   "devDependencies": {
