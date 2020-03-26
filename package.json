@@ -8,7 +8,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "govuk-react": "^0.7.2",
+    "govuk-react-jsx": "^1.5.0",
     "react": "^16.12.1",
     "react-dom": "^16.12.1",
     "react-markdown": "^3.3.4",
